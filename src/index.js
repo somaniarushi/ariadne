@@ -4,6 +4,15 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+// // Print date.now() in human readable format
+// let str = JSON.stringify(new Date(Date.now()));
+// console.log(str)
+
+// // Convert string to date object
+// let date = new Date(str.replace('"', '').replace('";
+// console.log(date)
+
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>

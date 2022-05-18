@@ -1,0 +1,68 @@
+{
+    "nodes": [
+        {
+            "id": 1,
+            "label": "Yuqing",
+            "title": "Yuqing Wang",
+            "group": "personal",
+            "notes": [],
+            "last_met": "2022-05-18T02:44:22.513Z",
+            "date_created": "2022-05-18T02:44:22.513Z"
+        },
+        {
+            "id": 2,
+            "label": "Me",
+            "title": "Arushi Somani",
+            "group": "me",
+            "notes": [],
+            "last_met": null,
+            "date_created": "2022-05-18T02:44:22.513Z",
+            "fixed": true
+        },
+        {
+            "id": 3,
+            "label": "Alex",
+            "title": "Alex Krenstel",
+            "group": "Accel Scholars",
+            "notes": [],
+            "last_met": "2022-05-17T02:00:22.513Z",
+            "date_created": "2022-05-16T02:00:22.513Z"
+        },
+        {
+            "id": 4,
+            "label": "Luis",
+            "title": "Luis Fernando Ayala",
+            "group": "BMES",
+            "notes": [],
+            "last_met": null,
+            "date_created": "2022-04-16T02:00:22.513Z"
+        },
+        {
+            "id": 5,
+            "label": "Crystal",
+            "title": "Crystal Wang",
+            "group": "personal",
+            "notes": [],
+            "last_met": "2022-05-09T02:44:22.513Z",
+            "date_created": "2022-05-11T02:44:22.513Z"
+        }
+    ],
+    "edges": [
+        {
+            "from": 2,
+            "to": 1
+        },
+        {
+            "from": 2,
+            "to": 3
+        },
+        {
+            "from": 1,
+            "to": 4
+        },
+        {
+            "from": 2,
+            "to": 5
+        }
+    ]
+}
